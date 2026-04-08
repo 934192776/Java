@@ -33,7 +33,6 @@ public class VariableDemo6 {
             boolean flag = sc.nextBoolean();
             System.out.println(flag);
             
-
     }
 
 }
