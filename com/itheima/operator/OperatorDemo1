@@ -1,0 +1,19 @@
+package com.itheima.variable;
+
+public class VariableDemo1 {
+    public static void main(String[] args) {
+
+        /*
+         算数运算符： + - * /%
+
+         整数计算，小数计算
+        
+        */
+
+         // 1. 整数计算
+         int a = 10;
+         
+    
+
+    }
+}
