@@ -1,6 +1,6 @@
-package com.itheima.variable;
+package com.itheima.operator;
 
-public class VariableDemo1 {
+public class OperatorDemo1 {
     public static void main(String[] args) {
 
         /*
@@ -11,12 +11,17 @@ public class VariableDemo1 {
         */
 
          // 1. 整数计算
+         // 细节： 整数相除结果还是整数，就是商
+         //       其他运算跟数学中的一模一样
+
          int a = 10;
          int b = 3;
 
-         
-
-         
+         System.outprintln(a + b);// 13
+         System.outprintln(a - b);// 7
+         System.outprintln(a * b);// 30
+         System.outprintln(a / b);// 3
+         System.outprintln(a % b);// 
     
 
     }
