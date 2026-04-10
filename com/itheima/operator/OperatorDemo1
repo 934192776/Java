@@ -23,6 +23,5 @@ public class OperatorDemo1 {
          System.outprintln(a / b);// 3
          System.outprintln(a % b);// 
     
-
     }
 }
