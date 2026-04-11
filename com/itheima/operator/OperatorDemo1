@@ -16,7 +16,7 @@ public class OperatorDemo1 {
 
          int a = 10;
          int b = 3;
-
+pwd
          System.outprintln(a + b);// 13
          System.outprintln(a - b);// 7
          System.outprintln(a * b);// 30
