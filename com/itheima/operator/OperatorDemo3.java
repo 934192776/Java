@@ -4,7 +4,7 @@ public class OperatorDemo3 {
     public static void main(String[] args) { 
     
     // 1. 定义变量记录秒数
-    int seconds = 7592;
+    int seconds = 7242;
 
     // 2. 获取小时数
     int hours = seconds / 3600; //  3661 / 3600 = 1....61;
