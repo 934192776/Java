@@ -13,7 +13,19 @@ public class OperatorDemo6 {
         System.out.println(cc);
 
     
-    
+        // 自增自减运算符
+        // 符号     说明
+        // ++      变量的值 +1 自增
+        // --      变量的值 -1 自减
+        
+        
+        int a = 10;
+        a++; // 11
+        ++a; // 12
+        --a; // 11
+        a--; // 10
+        a--; // 9
+        System.out.println(a); // 答案 = 9
     }
 
 }
