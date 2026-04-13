@@ -30,18 +30,18 @@ public class OperatorDemo2 {
         // 2. 拆分
         // 个位
         int ge = number % 10;
-        System.out.println(ge);
+        System.out.println("个位是：" + ge);
 
 
         // 十位
         int shi = number / 10 % 10;
-        System.out.println(shi);
+        System.out.println("十位是：" + shi);
 
         // 百位
         // 123 / 100 = 1
         // 1 % 100 = 0.....1
         int bai = number / 100;
-        System.out.println(bai);
+        System.out.println("百位是：" + bai);
 
     }
 }

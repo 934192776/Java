@@ -22,6 +22,9 @@ public class OperatorDemo3 {
     int s = seconds % 3600 % 60;
     System.out.println(s);
     
+    // 字符串拼接的形式打印数据
+    // 2小时0分42秒
+    System.out.println(hours + "小时" + minutes + "分" + s + "秒");
     
     }
 }
