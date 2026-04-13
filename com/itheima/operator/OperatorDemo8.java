@@ -24,10 +24,7 @@ public class OperatorDemo8 {
           boolean result = myHeight >= friendHeight;
           System.out.println(result);
 
-          // 练习2: 键盘录入一个3位数，判断是否能被3整除
-
-
-
+        
     }
 
 }
