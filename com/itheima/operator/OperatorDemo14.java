@@ -14,5 +14,4 @@ public class OperatorDemo14 {
         System.out.println(a > b ? a:b);
 
     }
-
 }
