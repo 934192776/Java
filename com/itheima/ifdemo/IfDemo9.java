@@ -45,7 +45,6 @@ public static void main(String[] args) {
     //无效
     System.out.println("无效三角形");
     }
- 
     
    }
 }
